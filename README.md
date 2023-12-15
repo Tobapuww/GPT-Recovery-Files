@@ -62,6 +62,11 @@
 ## 提交支持
 - 如果您知道，或者想为这个项目添加您目前设备的支持，请与我联系 酷安@Tobapuw
 
+## 捐赠💕
+如果本项目帮助到了您，可以考虑为我买一杯咖啡，非常感谢！
+![a5055023e85f43831cb4bdec7008c4a](https://github.com/Tobapuww/GPT-Recovery-tools/assets/139964294/27d44a0e-7520-41fc-8002-dd1bb3de9373)
+
+
 ## 特别鸣谢 🤝
 - 酷安[多幸运i](http://www.coolapk.com/u/8160711)为本项目提供原理以及技术支持。
 
