@@ -47,6 +47,8 @@
   fastboot flash partition:5 gpt_both5.bin
 ```
 
+如果你下载的zip中没有代码中显示的文件，请跳过
+
 如果不起作用：
 ```bat
   fastboot flash partition:4 gpt_both4.bin
