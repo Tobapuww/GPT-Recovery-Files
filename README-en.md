@@ -61,7 +61,7 @@ If that doesn't work:
 - Originally, I wanted to make a file in .exe format, but I won't use any code that compiles it, if you can write an application for this project, please contact me directly [click here] (https://github.com/Tobapuww/GPT-Recovery-tools/issues).
 
 ## Submit support
-- If you know, or would like to add support for your current device to this project, please contact me at Coolapk @Tobapuw
+- If you know, or would like to add support for your current device to this project, please contact me at Coolapk @Tobapuw or [Telegram](https://t.me/+JxKkFSlbBdg4NTM1)
 
 ## Donation💕
 If this project has helped you, please consider buy me a coffee, thank you very much!
