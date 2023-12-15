@@ -1,7 +1,7 @@
 # GPT-Recovery-Files
 ## This is a set of files that fix partition table corruption caused by phone flashing, modifying partition errors.
 
-[简体中文](https://github.com/Tobapuww/GPT-Recovery-Files/README.md)
+[简体中文](https://github.com/Tobapuww/GPT-Recovery-Files/blob/main/README.md))
  #
 ## What can it do? 🔥
 
