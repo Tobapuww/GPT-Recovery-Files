@@ -1,5 +1,4 @@
-@echo off ÕıÔÚµÈ´ıÁ¬½ÓÖÁfastboot
-for /f "tokens=2" %%a in ('fastboot getvar product 2^>^&1^|find "product"') do set DH=%%a
+@echo off æ­£åœ¨ç­‰å¾…è¿æ¥è‡³fastboot
 fastboot getvar product 2>&1 | findstr /r /c:"^product: *marble"
 fastboot getvar product 2>&1 | findstr /r /c:"^product: *marble"
 fastboot flash partition:0 %~dp0images/gpt_both0.bin
@@ -8,5 +7,5 @@ fastboot flash partition:2 %~dp0images/gpt_both2.bin
 fastboot flash partition:3 %~dp0images/gpt_both3.bin
 fastboot flash partition:4 %~dp0images/gpt_both4.bin
 fastboot flash partition:5 %~dp0images/gpt_both5.bin
-echo ĞŞ¸´ÒÑÍê³É£¬¿É°´ÈÎÒâ¼ü¹Ø±ÕÕâ¸ö´°¿Ú
+echo ä¿®å¤å·²å®Œæˆï¼Œå¯æŒ‰ä»»æ„é”®å…³é—­è¿™ä¸ªçª—å£
 pause
