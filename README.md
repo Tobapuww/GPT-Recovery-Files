@@ -21,7 +21,7 @@
  
 - 目前只支持搭载高通骁龙芯片的手机。
   
-- 点击[这里](https://github.com/Tobapuww/GPT-Recovery-tools/device)寻找你的设备制造商和设备型号
+- 点击[这里](https://github.com/Tobapuww/GPT-Recovery-Files/tree/main/device)寻找你的设备制造商和设备型号
 
 - 下载devicename.zip到你喜欢的文件位置
   
