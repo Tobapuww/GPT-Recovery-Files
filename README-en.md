@@ -20,7 +20,7 @@
  
 - Currently, only phones with Qualcomm Snapdragon chips are supported.
   
-- Click [here](https://github.com/Tobapuww/GPT-Recovery-tools/device) to find your device manufacturer and device model
+- Click [here](https://github.com/Tobapuww/GPT-Recovery-Files/tree/main/device) to find your device manufacturer and device model
 
 - Download devicename.zip to your preferred file location
   
