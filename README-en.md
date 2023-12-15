@@ -74,4 +74,4 @@ If this project has helped you, please consider buy me a coffee, thank you very 
 ## Thanks 🤝
 - Coolapk[多幸运i](http://www.coolapk.com/u/8160711)He provided the rationale and technical support for the project.
 
-# ⚠️Note! Please don't download the ZIP directly, it doesn't do anything!
+# ⚠️Note! Please don't code-download ZIP directly, it doesn't do anything!
