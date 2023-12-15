@@ -67,8 +67,9 @@ If that doesn't work:
 If this project has helped you, please consider buy me a coffee, thank you very much!
 <div align="center">
   <br>
-  <a href="[https://www.buymeacoffee.com/gptrecoveryfiles]"><img src="https://github.com/Mahmud0808/Iconify/blob/beta/.github/resources/bmc-button.png" width="30%" alt="Buy me a coffee" /></a>
+  <a href="https://www.buymeacoffee.com/gptrecoveryfiles"><img src="https://github.com/Mahmud0808/Iconify/blob/beta/.github/resources/bmc-button.png" width="30%" alt="Buy me a coffee" /></a>
   <br><br>
+</div>
 
 ## Thanks 🤝
 - Coolapk[多幸运i](http://www.coolapk.com/u/8160711)He provided the rationale and technical support for the project.
