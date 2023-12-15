@@ -1,5 +1,7 @@
 # GPT-Recovery-Files
 ## 这是为修复手机因刷机、修改分区错误导致的分区表损坏的文件集。
+[English](https://github.com/Tobapuww/GPT-Recovery-Files/blob/main/README-en.md)
+
 
  #
 ## 它能做什么？ 🔥
